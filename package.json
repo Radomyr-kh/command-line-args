@@ -1,0 +1,25 @@
+{
+  "name": "task1-node-radomyr-horban",
+  "version": "1.0.0",
+  "description": "## Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/React-14-node-ajax/task1-node-radomyr-horban.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/React-14-node-ajax/task1-node-radomyr-horban/issues"
+  },
+  "homepage": "https://github.com/React-14-node-ajax/task1-node-radomyr-horban#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "yargs": "^17.1.1-candidate.0"
+  }
+}
